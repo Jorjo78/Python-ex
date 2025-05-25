@@ -1,2 +1,2 @@
-# Python-panda
-Python panda
+# Python-pandas
+Python pandas
